@@ -18,6 +18,7 @@ const ASSETS = [
   '/icons/apple-touch-icon.png',
   '/icons/android-chrome-192x192.png',
   '/icons/android-chrome-512x512.png',
+  '/tt-hazelnuts-font-family-1748587365-0\TTHazelnuts-Regular-Trial-BF6401510bf3e3e.otf',
 ];
 
 // Cache assets on install
