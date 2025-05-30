@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Hazelnuts';
+    src: url('/tt-hazelnuts-font-family-1748587365-0/TTHazelnuts-Regular-Trial-BF6401510bf3e3e.otf') format('opentype');
+    font-weight: normal;
+}
+
 body {
     background-color: #006bac;
     color: white;
@@ -15,18 +21,20 @@ h1 {
     font-weight: 700;
     margin-top: 10px;
     display: block;
+    font-family: 'Hazelnuts', sans-serif;
 }
 
 h1, p {
     text-align: center;
     font-size: 2rem;
     margin-top: 10px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 /*     font-weight: 700; */
 }
 
 .game p{
     margin-top: 0;
+    font-family: 'Hazelnuts', sans-serif;
 }
 
 .actions {
@@ -44,6 +52,8 @@ h1, p {
     cursor: pointer;
     margin: 0 10px;
     border-radius: 10px;
+    font-family: 'Hazelnuts', sans-serif;
+    margin-top: 10px;
 }
 
 .actions button:hover {
