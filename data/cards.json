@@ -1,10 +1,26 @@
 [
     {
-        "image": "",
-        "name": ""
+        "image": "../assets/mano.webp",
+        "name": "mano"
     },
     {
-        "image": "",
-        "name": ""
+        "image": "../assets/cereal.webp",
+        "name": "cereal"
+    },
+    {
+        "image": "../assets/cereal_colores.webp",
+        "name": "cereal_colores"
+    },
+    {
+        "image": "../assets/saludo.webp",
+        "name": "saludo"
+    },
+    {
+        "image": "../assets/maizoritos.webp",
+        "name": "maizoritos"
+    },
+    {
+        "image": "../assets/pinkie.webp",
+        "name": "pinkie"
     }
 ]
