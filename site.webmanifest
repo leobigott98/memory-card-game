@@ -46,7 +46,7 @@
   "orientation": "portrait-primary",
   "start_url": "/",
   "scope": "/",
-  "lang": ["es-VE"],
+  "lang": "es-VE",
   "theme_color": "#006bac",
   "background_color": "#006bac",
   "display": "standalone"
