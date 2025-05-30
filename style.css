@@ -6,28 +6,33 @@ body {
 }
 
 .logo {
-    width: 200px;
+    width: 250px;
 
 }
 
 h1 {
     text-align: center;
     font-weight: 700;
-    margin-top: 20px;
+    margin-top: 10px;
     display: block;
 }
 
 h1, p {
     text-align: center;
-    font-size: 2.5rem;
-    margin-top: 30px;
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-bottom: 0;
 /*     font-weight: 700; */
+}
+
+.game p{
+    margin-top: 0;
 }
 
 .actions {
     display: flex;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 0;
 }
 
 .actions button {
@@ -114,7 +119,7 @@ h1, p {
 }
 
 .card .back {
-    background-size: 10vw 5vw;
+    background-size: 15vw 7vw;
     background-image: url("./logo_maizoritos.png");
     background-repeat: no-repeat;
     background-color: antiquewhite;
